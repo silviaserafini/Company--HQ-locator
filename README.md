@@ -1,6 +1,6 @@
 # Company-HQ-locator
 
-<img style="float: left;" src="INPUT/download.jpg">
+<img src="INPUT/download.jpg">
 
 The goal of the project is to find the  perfect location for the new offices of a young company in the `GAMING industry`. 
 The company will has the following scheme:
@@ -38,7 +38,7 @@ I found a solution and reverse geocoded the coordinates.
 
 In the file `ProjectW4` I run a deep analysis of the crunchbase dataset using MongoDB.
 
-I've used some APIs to fetch informations about the Starbucks, Airports, Recent Companies, Vegan restaurants, 
+I've used some APIs to fetch informations about the Starbucks, Airports, Recent Companies, Design companies, Vegan restaurants, 
 parties and events in the city I choose and I build some dataframes with the queries results always insluding geospatial coordinates.
 
 Taking advantage of the fact that MongoDB allows me to create Collections with different documents' categories inside, I created a dataset including all the different categories called "geopro". This will help me in my approach 2 solution.
