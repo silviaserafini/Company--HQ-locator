@@ -1,6 +1,9 @@
-assets/*
-!assets/.gitignore
-protected/runtime/*
-!protected/runtime/.gitignore
-protected/data/*.db
-themes/classic/views/
+.env
+.DS_Store
+.idea
+venv/
+.ipynb_checkpoints
+__pycache__/
+geckodriver
+geckodriver.log
+.ipynb_checkpoints
