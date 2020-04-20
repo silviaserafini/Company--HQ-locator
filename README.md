@@ -1,6 +1,6 @@
-# Company--HQ-locator
+# Company-HQ-locator
 
-<img style="float: left;" src="INPUT/download.png">
+<img style="float: left;" src="INPUT/download.jpg">
 
 The goal of the project is to find the  perfect location for the new offices of a young company in the `GAMING industry`. 
 The company will has the following scheme:
